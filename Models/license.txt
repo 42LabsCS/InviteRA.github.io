@@ -1,0 +1,11 @@
+Model Information:
+* title:	Convite em RA - 42 Labs
+* source:	https://sketchfab.com/3d-models/convite-em-ra-42-labs-66e649ed197740b0b1d09c9c8e52f5a1
+* author:	42LabsCS (https://sketchfab.com/42LabsCS)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Convite em RA - 42 Labs" (https://sketchfab.com/3d-models/convite-em-ra-42-labs-66e649ed197740b0b1d09c9c8e52f5a1) by 42LabsCS (https://sketchfab.com/42LabsCS) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
