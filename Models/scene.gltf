@@ -1205,7 +1205,7 @@
       "source": "https://sketchfab.com/3d-models/ra-invite-42labs-fa3761458e534c85a980abed5293fab6",
       "title": "RA - Invite 42Labs"
     },
-    "generator": "Sketchfab-9.60.0",
+    "generator": "Sketchfab-9.62.1",
     "version": "2.0"
   },
   "bufferViews": [
@@ -1293,7 +1293,7 @@
           1
         ],
         "metallicFactor": 0,
-        "roughnessFactor": 0.89297135964975516
+        "roughnessFactor": 0.89297135959999996
       }
     },
     {
@@ -1316,7 +1316,7 @@
           "texCoord": 0
         },
         "metallicFactor": 0,
-        "roughnessFactor": 0.89297135964975516
+        "roughnessFactor": 0.89297135959999996
       }
     },
     {
@@ -1339,7 +1339,7 @@
           "texCoord": 0
         },
         "metallicFactor": 0,
-        "roughnessFactor": 0.89297135964975516
+        "roughnessFactor": 0.89297135959999996
       }
     },
     {
@@ -1362,7 +1362,7 @@
           "texCoord": 0
         },
         "metallicFactor": 0,
-        "roughnessFactor": 0.89297135964975516
+        "roughnessFactor": 0.89297135959999996
       }
     },
     {
@@ -1385,7 +1385,7 @@
           "texCoord": 0
         },
         "metallicFactor": 0,
-        "roughnessFactor": 0.89297135964975516
+        "roughnessFactor": 0.89297135959999996
       }
     },
     {
@@ -1404,7 +1404,7 @@
           1
         ],
         "metallicFactor": 0,
-        "roughnessFactor": 0.89297135964975516
+        "roughnessFactor": 0.89297135959999996
       }
     },
     {
@@ -1423,7 +1423,7 @@
           1
         ],
         "metallicFactor": 0,
-        "roughnessFactor": 0.89297135964975516
+        "roughnessFactor": 0.89297135959999996
       }
     },
     {
@@ -1446,7 +1446,7 @@
           "texCoord": 0
         },
         "metallicFactor": 0,
-        "roughnessFactor": 0.89297135964975516
+        "roughnessFactor": 0.89297135959999996
       }
     }
   ],
@@ -1658,7 +1658,7 @@
         0,
         1
       ],
-      "name": "72aaece58a56407ea490f6773abebb2c.fbx"
+      "name": "468fcaf741984a1188ddf035990531c6.fbx"
     },
     {
       "children": [
